@@ -1,0 +1,29 @@
+# Unreal Engine Generated Files 
+/[Bb]uild
+/[Bb]uilds
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
+
+
+# Game Content/Assets
+/Content
+
+# For some reason this version of gamelift plugin causes build issues when added to source control
+/Plugins
+
+# Visual Studio Generated Files
+.vs
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.opendb
+*.opensdf
+*.sdf
+*.sln
+.vscode
+**/.history
